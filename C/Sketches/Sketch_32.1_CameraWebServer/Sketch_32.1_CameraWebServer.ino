@@ -30,8 +30,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid     = "********";
-const char* password = "********";
+const char* ssid     = "P6TDRMC";
+const char* password = "88a4O07;";
 
 void startCameraServer();
 
@@ -115,5 +115,5 @@ void setup() {
 
 void loop() {
   // Do nothing. Everything is done in another task by the web server
-  delay(10000);
+  delay(100);
 }
